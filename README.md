@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://batu-ozcamlik.itch.io](https://batu-ozcamlik.itch.io)
+- 👨‍💻 All of my projects are available at [www.batuozcamlik.com)
 
 - 📫 How to reach me **bozcamlik@gmail.com**
 
