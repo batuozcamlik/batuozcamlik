@@ -25,17 +25,17 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About Me
 
-İstanbul Aydın Üniversitesi **Dijital Oyun Tasarımı** öğrencisiyim. Kod mimarisi ve oyun mekanikleri üzerine yoğunlaşıyorum.
+I am a **4th-year** student at Istanbul Aydin University, Department of **Digital Game Design**. I am passionate about game development, focusing heavily on code architecture and game mechanics.
 
-- 🔭 Şu anda Steam için **"The Band"** adlı proje üzerinde çalışıyorum.
-- 🎮 Tüm oyunlarımı ve prototiplerimi **[Itch.io](https://batu-ozcamlik.itch.io)** üzerinden inceleyebilirsin.
-- ⚡ **Odaklandığım alan:** Unity ile temiz kod mimarisi ve ölçeklenebilir oyun sistemleri.
+- 🔭 I am currently working on a Steam project called **"The Band"**.
+- 🎮 You can check out all my games and prototypes on **[Itch.io](https://batu-ozcamlik.itch.io)**.
+- ⚡ **Focus Area:** Clean code architecture and scalable game systems using Unity.
 
 ---
 
-### 🛠️ Teknoloji Envanteri
+### 🛠️ Tech Stack
 
 **Core Development:**
 <div align="left">
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 İstatistikler
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=batuozcamlik&show_icons=true&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=ffffff&bg_color=0d1117" height="180" alt="stats graph" />
